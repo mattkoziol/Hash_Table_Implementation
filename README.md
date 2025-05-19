@@ -1,4 +1,4 @@
-# Hash Table Password Manager
+# Hash Table Implementation
 
 ## Project Overview
 This project implements a secure password server using a hash table data structure. The implementation includes a generic hash table class and a specialized password server class that handles user authentication and password management.
